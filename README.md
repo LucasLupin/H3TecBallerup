@@ -1,4 +1,4 @@
-## H3TecBallerup
+## H3 Tec Ballerup
 
 #### This is all the assignments i have made in H3 on Tec Ballerup
 
