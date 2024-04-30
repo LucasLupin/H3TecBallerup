@@ -3,7 +3,7 @@
 #### This is all the assignments i have made in H3 on Tec Ballerup
 
 #### 6 Weeks Angular Project
-*[AngularProject](https://github.com/LucasLupin/H3CinemaBookingProject)
+* [AngularProject](https://github.com/LucasLupin/H3CinemaBookingProject)
 
 #### IOT (Internet Of Things)
 * [IOTH3Afsluttende](https://github.com/LucasLupin/H3iotAfsluttendeOpgave)
